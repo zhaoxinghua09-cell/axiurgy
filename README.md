@@ -11,7 +11,8 @@ family: meta-layer-creation
 related: [lgd-doctrine]
 ---
 
-[![LGD 82/100 four-angle](docs/lgd-combo.svg)](https://github.com/zhaoxinghua09-cell/axiurgy)
+[![LGD 82/100](docs/lgd-main.svg)](https://github.com/zhaoxinghua09-cell/axiurgy) [![四角度](docs/lgd-angles.svg)](https://github.com/zhaoxinghua09-cell/axiurgy)
+
 
 # Axiurgy · 价值工程术
 
