@@ -1,0 +1,3 @@
+agent-name: axiurgy
+contact: https://github.com/zhaoxinghua09-cell/axiurgy
+ecosystem: https://github.com/zhaoxinghua09-cell/awesome-trusted-agents
