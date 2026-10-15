@@ -1,7 +1,7 @@
 ---
 name: axiurgy
 description: "Use when defining what deserves protection and what cannot be compromised in AI governance. 当需要界定 AI 治理中什么值得保护、什么不可妥协时使用。"
-license: ARR
+license: apache-2.0
 type: term-registration
 namespace: lgd.terms
 version: v1.1
